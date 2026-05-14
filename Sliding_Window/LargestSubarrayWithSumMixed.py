@@ -6,7 +6,7 @@
 
 def largest_subarray_with_sum_mixed(arr, target_sum):
     prefix_sum = 0
-    prefix_sum_map = {}
+    prefix_sum_map = {0: -1}  # Maps prefix sum to its earliest index
     max_length = 0
 
     for i in range(len(arr)):
