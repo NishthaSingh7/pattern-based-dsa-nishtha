@@ -1,50 +1,24 @@
-# Pattern-Based DSA
+# pattern-based-dsa-nishtha
 
-Structured Data Structures & Algorithms practice organized by **coding patterns** — built for consistent interview prep and daily problem-solving.
+## Project name
+pattern-based-dsa-nishtha
 
-## Why patterns?
+## Year
+2026
 
-Most interview problems repeat the same underlying techniques. Learning patterns (not just individual problems) makes it faster to recognize and solve new questions under pressure.
+## Purpose
+Structured DSA practice repository organized by coding patterns for interview prep.
 
-## Patterns covered
+## Features
+- Pattern folders (Sliding Window started; Two Pointers, Binary Search, Prefix Sum, Graphs, DP planned)
+- Python solutions with complexity notes
+- Easy local runs per problem file
+- Clear naming conventions for adding new problems
+- Python
+- Git / GitHub for versioned practice notes
 
-| Pattern | Folder | Status |
-| --- | --- | --- |
-| Sliding Window | `Sliding_Window/` | ✅ Started |
-| Two Pointers | `Two_Pointers/` | 🔜 Planned |
-| Binary Search | `Binary_Search/` | 🔜 Planned |
-| Prefix Sum | `Prefix_Sum/` | 🔜 Planned |
-| Graphs | `Graphs/` | 🔜 Planned |
-| Dynamic Programming | `Dynamic_Programming/` | 🔜 Planned |
+## Tech Stack used
+- See repository
 
-## Problems solved
-
-### Sliding Window
-- Maximum Subarray Sum with size K
-- Largest Subarray with Sum
-- Largest Subarray with Mixed Sum
-- Largest Subarray with Abs Diff and Limit
-
-## Run a solution
-
-```bash
-python Sliding_Window/MaximumSubarraySumWithK.py
-```
-
-## Goals
-
-- Solve DSA problems consistently using pattern recognition
-- Maintain GitHub activity with structured commits
-- Prepare for coding interviews at product companies
-- Build a personal reference library of solved problems
-
-## How to add a problem
-
-1. Pick the pattern folder (or create it)
-2. Name the file descriptively: `ProblemName.py`
-3. Include time/space complexity in a comment at the top
-4. Commit with a clear message: `sliding-window: add max subarray sum k`
-
----
-
-Maintained by **Nishtha Singh** · [GitHub](https://github.com/NishthaSingh7)
+## Project link
+https://github.com/NishthaSingh7/pattern-based-dsa-nishtha
